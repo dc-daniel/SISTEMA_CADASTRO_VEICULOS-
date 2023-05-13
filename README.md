@@ -1,0 +1,25 @@
+## SISTEMA CADASTRO VEICULOS - POS GRADUACAO JAVA - UTFPR 
+
+#### EXERCICIO DE NIVELAMENTO JAVA 1 
+
+##### RECURSO USADO PARA CONSTRUCAO DO EXERCICIO
+
+* ENCAPSULAMENTO 
+* HERANCA
+* INTERFACE
+* EXCECOES
+* COLLECTIONS 
+
+![image](https://github.com/dc-daniel/SISTEMA_CADASTRO_VEICULOS-/assets/80725744/8476444b-73e4-4541-88b9-cd0e21d65b90)
+
+![image](https://github.com/dc-daniel/SISTEMA_CADASTRO_VEICULOS-/assets/80725744/602a874f-4d80-4deb-afec-082b618aeab6)
+
+![image](https://github.com/dc-daniel/SISTEMA_CADASTRO_VEICULOS-/assets/80725744/bec3bfe6-b20d-4c2a-90b0-e16bda3afa64)
+![image](https://github.com/dc-daniel/SISTEMA_CADASTRO_VEICULOS-/assets/80725744/674faeb3-26c9-4442-b6d1-47f6324a70a2)
+![image](https://github.com/dc-daniel/SISTEMA_CADASTRO_VEICULOS-/assets/80725744/99f12622-6161-4b10-947d-6152633693a7)
+
+
+
+
+
+
